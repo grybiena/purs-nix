@@ -24,11 +24,11 @@
     "docs-search": {
       "flake": false,
       "locked": {
-        "lastModified": 1685720185,
-        "narHash": "sha256-B5LcfMhhOR3wKIGV5WHwZCclN9fz6xbtA19fdmOI1uM=",
+        "lastModified": 1685720849,
+        "narHash": "sha256-k1gdjL/56bnnVDS7+5xCAbPBLZFUbSUaQcFX7YOhKMc=",
         "owner": "grybiena",
         "repo": "purescript-docs-search",
-        "rev": "f532718013b91a8529c7e87747dc094cffe89abc",
+        "rev": "5739392c3568e5a28b67fc82af9011c40c9efbdc",
         "type": "github"
       },
       "original": {
