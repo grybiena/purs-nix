@@ -2,14 +2,14 @@
     { docs-search =
         { # to prevent lock file explosion
           flake = false;
-          url = "github:purs-nix/purescript-docs-search";
+          url = "github:grybiena/purescript-docs-search?ref=grybiena";
         };
 
       get-flake.url = "github:ursi/get-flake";
       make-shell.url = "github:ursi/nix-make-shell/1";
       nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
       parsec.url = "github:nprindle/nix-parsec";
-      ps-tools.url = "github:purs-nix/purescript-tools";
+      ps-tools.url = "github:grybiena/purescript-tools?ref=grybiena";
       utils.url = "github:ursi/flake-utils/8";
     };
 
@@ -51,7 +51,7 @@
     }
     // utils.apply-systems
          { inherit inputs;
-           systems = [ "x86_64-linux" "x86_64-darwin" ];
+           systems = [ "aarch64-linux" "aarch64-darwin" "x86_64-linux" "x86_64-darwin" ];
          }
          ({ make-shell, pkgs, system, ... }:
             let
