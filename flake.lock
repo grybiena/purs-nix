@@ -24,15 +24,16 @@
     "docs-search": {
       "flake": false,
       "locked": {
-        "lastModified": 1675992564,
-        "narHash": "sha256-Tk9VSogFHXtXe9O9vuCEfM/PV/S7plMIO0I++fCZn7U=",
-        "owner": "purs-nix",
+        "lastModified": 1685720185,
+        "narHash": "sha256-B5LcfMhhOR3wKIGV5WHwZCclN9fz6xbtA19fdmOI1uM=",
+        "owner": "grybiena",
         "repo": "purescript-docs-search",
-        "rev": "35822b1d6ce65b1a07f80dd9e2caf15c3ee83e2c",
+        "rev": "f532718013b91a8529c7e87747dc094cffe89abc",
         "type": "github"
       },
       "original": {
-        "owner": "purs-nix",
+        "owner": "grybiena",
+        "ref": "grybiena",
         "repo": "purescript-docs-search",
         "type": "github"
       }
@@ -88,11 +89,11 @@
     },
     "get-flake": {
       "locked": {
-        "lastModified": 1644686428,
-        "narHash": "sha256-zkhYsURWFrvEZLkIoBeqFBzSu+cA2u5mo6M8vq9LN7M=",
+        "lastModified": 1673819588,
+        "narHash": "sha256-gRtwKAlu4htvS6dxyZnW3n+vMS1acqnMGVHqxUdETeY=",
         "owner": "ursi",
         "repo": "get-flake",
-        "rev": "703f15558daa56dfae19d1858bb3046afe68831a",
+        "rev": "e0917b6f564aa5acefb1484b5baf76da21746c3c",
         "type": "github"
       },
       "original": {
@@ -153,11 +154,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1646506091,
-        "narHash": "sha256-sWNAJE2m+HOh1jtXlHcnhxsj6/sXrHgbqVNcVRlveK4=",
+        "lastModified": 1685677062,
+        "narHash": "sha256-zoHF7+HNwNwne2XEomphbdc4Y8tdWT16EUxUTXpOKpQ=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "3e644bd62489b516292c816f70bf0052c693b3c7",
+        "rev": "95be94370d09f97f6af6a1df1eb9649b5260724e",
         "type": "github"
       },
       "original": {
@@ -250,15 +251,16 @@
         "utils": "utils_2"
       },
       "locked": {
-        "lastModified": 1675987041,
-        "narHash": "sha256-0aHIrngBLXO95SH+PjyTWJ7LWoFdJtx8y6oSln0l5Ak=",
-        "owner": "purs-nix",
+        "lastModified": 1685719025,
+        "narHash": "sha256-yswuADRSi9HlYIFIWLVBDkF3YIBEl1KklTCOE/RR7os=",
+        "owner": "grybiena",
         "repo": "purescript-tools",
-        "rev": "7929148939325f1fed916884c53cad3c0dfa4be7",
+        "rev": "55d92601798dbb371e04a73f312cfae4b9635ce9",
         "type": "github"
       },
       "original": {
-        "owner": "purs-nix",
+        "owner": "grybiena",
+        "ref": "grybiena",
         "repo": "purescript-tools",
         "type": "github"
       }
@@ -330,11 +332,11 @@
         "flake-utils": "flake-utils_2"
       },
       "locked": {
-        "lastModified": 1656044990,
-        "narHash": "sha256-f01BB7CaOyntOab9XnpH9HD63rGcnu2iyL4M2ubs5F8=",
+        "lastModified": 1658606827,
+        "narHash": "sha256-3kSWTDpV4+uApt/Xd0kv2m7TR1Y6A7SgYUeX86/qYuU=",
         "owner": "ursi",
         "repo": "flake-utils",
-        "rev": "f53b674a2c90f6202a2f4cd491aba121775490b5",
+        "rev": "faec5f7431da6747a69957a9cd65e35b5173e10a",
         "type": "github"
       },
       "original": {
