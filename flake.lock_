@@ -95,11 +95,11 @@
     },
     "get-flake": {
       "locked": {
-        "lastModified": 1694475786,
-        "narHash": "sha256-s5wDmPooMUNIAAsxxCMMh9g68AueGg63DYk2hVZJbc8=",
+        "lastModified": 1673819588,
+        "narHash": "sha256-gRtwKAlu4htvS6dxyZnW3n+vMS1acqnMGVHqxUdETeY=",
         "owner": "ursi",
         "repo": "get-flake",
-        "rev": "ac54750e3b95dab6ec0726d77f440efe6045bec1",
+        "rev": "e0917b6f564aa5acefb1484b5baf76da21746c3c",
         "type": "github"
       },
       "original": {
@@ -117,11 +117,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1704840768,
-        "narHash": "sha256-vcm9RkJDR4aTVTKocdmKPSjAgAJw3Tu7UEDJxjAVxNk=",
+        "lastModified": 1704594075,
+        "narHash": "sha256-YGbe4tf/R00py3Nu/U05OOahpteifaVrXIjNt3Gd0Lo=",
         "ref": "refs/heads/master",
-        "rev": "2d7660ce8ee2aa8eac650f670692706a1945f5a7",
-        "revCount": 64,
+        "rev": "7c28fe8921c630259e0f761d64fd46dd77689203",
+        "revCount": 63,
         "type": "git",
         "url": "https://gitlab.nixica.dev/nix/lint-utils.git"
       },
@@ -170,11 +170,11 @@
         "nixpkgs-stable": "nixpkgs-stable"
       },
       "locked": {
-        "lastModified": 1704833612,
-        "narHash": "sha256-yhnKT8z5FOTUb/1ZXaErmFHsv1oKg1aYQVLVUCzQWMA=",
+        "lastModified": 1702460310,
+        "narHash": "sha256-vRhF9hE4P8rwcEtPYcEuoIHvCUiI+37OeHW/QRtnMQk=",
         "owner": "piegamesde",
         "repo": "nixfmt",
-        "rev": "82457ef5fc7b324d3cab4300af0ff7f854135cfa",
+        "rev": "0a8c246723bdd16207bb03681614892fa1d2f9b5",
         "type": "github"
       },
       "original": {
@@ -186,11 +186,19 @@
     },
     "nixpkgs": {
       "locked": {
+<<<<<<< HEAD
+        "lastModified": 1685677062,
+        "narHash": "sha256-zoHF7+HNwNwne2XEomphbdc4Y8tdWT16EUxUTXpOKpQ=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "95be94370d09f97f6af6a1df1eb9649b5260724e",
+=======
         "lastModified": 1667292599,
         "narHash": "sha256-7ISOUI1aj6UKMPIL+wwthENL22L3+A9V+jS8Is3QsRo=",
         "owner": "NixOS",
         "repo": "nixpkgs",
         "rev": "ef2f213d9659a274985778bff4ca322f3ef3ac68",
+>>>>>>> master
         "type": "github"
       },
       "original": {
@@ -218,11 +226,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1705242415,
-        "narHash": "sha256-a8DRYrNrzTudvO7XHUPNJD89Wbf1ZZT0VbwCsPnHWaE=",
+        "lastModified": 1704161960,
+        "narHash": "sha256-QGua89Pmq+FBAro8NriTuoO/wNaUtugt29/qqA8zeeM=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "ea780f3de2d169f982564128804841500e85e373",
+        "rev": "63143ac2c9186be6d9da6035fa22620018c85932",
         "type": "github"
       },
       "original": {
@@ -270,8 +278,8 @@
         "utils": "utils"
       },
       "locked": {
-        "lastModified": 1705330458,
-        "narHash": "sha256-Y2sqo1Ql5gITPWXTs36MDWUSN62PpatZgF/Zhv389hs=",
+        "lastModified": 1685719025,
+        "narHash": "sha256-00000000000000000000000000000000000000000000",
         "owner": "grybiena",
         "repo": "purescript-tools",
         "rev": "1f09543a8c5e0033075653c5ae6530020ccac1ed",
